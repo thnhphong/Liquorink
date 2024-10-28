@@ -22,7 +22,7 @@ Liquorink is a web application that provides an extensive catalog of liquors, be
 - Order confirmation modal.
 
 ## Technologies Used
-- **HTML**: For structuring the web pages.
+- **Semantic Elements in HTML5**: For structuring the web pages.
 - **CSS**: For styling the application and ensuring a responsive layout.
 - **JavaScript**: For client-side interactivity and functionality.
 - **PHPMyAdmin**: For managing the MySQL database.
@@ -44,3 +44,11 @@ Configure the database connection in your PHP files (if applicable).
 Run the application:
 
 Open the index.html file in your web browser or set up a local server using XAMPP/WAMP.
+
+## License: Start the Development Server
+
+You can now start your development server:
+
+```bash
+npm run dev
+

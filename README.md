@@ -33,10 +33,10 @@ To get started with the Liquorink project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-    git clone https://github.com/yourusername/liquorink.git 
+    git clone https://github.com/thnhphong/liquorink.git 
 2. 
    ```bash
-   git clone https://github.com/yourusername/liquorink.git
+   git clone https://github.com/thnhphong/liquorink.git
 4. Set up the database:
 
 Import the provided SQL file to your MySQL database using PHPMyAdmin or any MySQL client.

@@ -31,11 +31,11 @@ The designs were created to the following widths:
 ### Font
 
 ### Aladin => LOGO
-### CARD => Rye 
-### HEADING, items in navbar => Amarante
+### Card => Rye 
+### Heading, items in navbar => Amarante
 ### Normal p: Inter
 
-### link: Embed code in the <head> of your html">
+### Embed code in the <head> of your html">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Aladin&family=Amarante&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rye&display=swap" rel="stylesheet">

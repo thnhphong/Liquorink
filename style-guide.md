@@ -30,9 +30,9 @@ The designs were created to the following widths:
 
 ### Font
 
-### Aladin ### => LOGO
-### CARD ### => Rye 
-### HEADING, items in navbar ### => Amarante
+### Aladin => LOGO
+### CARD => Rye 
+### HEADING, items in navbar => Amarante
 ### Normal p: Inter
 
 ### link: Embed code in the <head> of your html">
@@ -41,13 +41,12 @@ The designs were created to the following widths:
 <link href="https://fonts.googleapis.com/css2?family=Aladin&family=Amarante&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rye&display=swap" rel="stylesheet">
 ### OR you can import with this link ###
 
-### import 2 families
+### Import 2 families
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Amarante&family=Rye&display=swap');
 </style>
 
 ### Amarante: CSS class 
-### for 
 .amarante-regular {
   font-family: "Amarante", serif;
   font-weight: 400;
@@ -71,6 +70,6 @@ The designs were created to the following widths:
   font-style: normal;
 }
 
-
-- Family: [Red Hat Text]()
 - Weights: 400, 600, 700
+
+
